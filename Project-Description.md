@@ -3,7 +3,7 @@
 
 ---
 
-## Team Members
+# Team Members
 ### Names, Majors and Contact information
 
 * Ian Collamer (CS) - collamij@maij.uc.edu

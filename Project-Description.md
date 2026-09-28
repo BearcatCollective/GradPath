@@ -4,7 +4,7 @@
 ---
 
 ## Team Members
-### Majors and Contact information
+### Names, Majors and Contact information
 
 * Ian Collamer (CS) - collamij@maij.uc.edu
 * Oriana Hernandez (CS) - hernndoc@mail.uc.edu

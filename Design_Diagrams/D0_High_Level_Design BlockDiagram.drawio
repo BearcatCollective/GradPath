@@ -1,0 +1,104 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Page-1" id="lpteY2mVKKtGrwPEzo8L">
+    <mxGraphModel dx="2302" dy="1961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-435" y="-210" width="1440" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="650" y="45" width="220" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="50" width="210" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="50" width="670" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k_E25k-tSmWC2wkzdPhK-1" target="k_E25k-tSmWC2wkzdPhK-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-39" value="I5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k_E25k-tSmWC2wkzdPhK-38">
+          <mxGeometry x="-0.025" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-1" value="Course Data&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Editable display of all course information&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="100" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k_E25k-tSmWC2wkzdPhK-3" target="k_E25k-tSmWC2wkzdPhK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k_E25k-tSmWC2wkzdPhK-3" target="k_E25k-tSmWC2wkzdPhK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-30" value="I4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k_E25k-tSmWC2wkzdPhK-11">
+          <mxGeometry x="-0.0526" y="-1" relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-3" value="Backend API&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Fetches and posts data&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="100" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-5" value="Azure DB&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Stores data&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="452.5" y="230" width="105" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k_E25k-tSmWC2wkzdPhK-14" target="k_E25k-tSmWC2wkzdPhK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-29" value="I3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k_E25k-tSmWC2wkzdPhK-8">
+          <mxGeometry x="-0.0769" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-6" value="Web Scraper&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Gathers course data&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="100" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-12" value="Scheduler Website&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Schedule creator&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="250" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k_E25k-tSmWC2wkzdPhK-6" target="k_E25k-tSmWC2wkzdPhK-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="135" as="sourcePoint" />
+            <mxPoint x="425" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-28" value="I2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k_E25k-tSmWC2wkzdPhK-15">
+          <mxGeometry x="-0.1667" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-14" value="Data Validator&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Removes duplicates, structures data in consistent way&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-20" value="Backend" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-22" value="Edge: Course info" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-25" value="Clients" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="677" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k_E25k-tSmWC2wkzdPhK-32" target="k_E25k-tSmWC2wkzdPhK-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-60" y="150" />
+              <mxPoint x="-60" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-32" value="UC Website&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Updated by advisors&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=21;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="100" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-36" value="&lt;h1&gt;GradPath&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="-150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_E25k-tSmWC2wkzdPhK-40" value="&lt;h3&gt;&lt;span style=&quot;font-family: Calibri; font-size: 14.6667px; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;A scheduler for UC students that uses a degree audit and UC&#39;s course catalog to automatically create the fastest possible graduation plan. It considers course prerequisites and semester availability, while allowing students to add, remove, or edit classes and see plans for additional majors or minors.&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-374" y="-111" width="840" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
